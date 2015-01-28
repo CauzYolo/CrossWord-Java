@@ -3167,6 +3167,7 @@ alteration|deterioration|degradation|degat|pourriture|putrefaction|tache|rouille
 abime|altere|corrompu|gate|pourri|tale|sombre|deteriore|endommage|decompose|putride|compromis|carie|moisi|cajole|faisande|putrefie
 abimer|deteriorer|endommager|corrompre|gater|alterer|tarer|pourrir|blettir|putrefier|decomposer|infecter|souiller|moisir|vicier|faisander|empoisonner|infester|frelater|adulterer|affaiblir|appauvrir|avilir|degrader|aigrir|rancir|croupir|desagreger|contaminer
 incarnation|metamorphose|transformation|personnification|reincarnation|mutation|transmutation|peripetie|evenement|episode|alea|incident|rebondissement|aventure|mesaventure|trouble
+salut!|salutations|oraison|priere|Angelus|Oremus|Pater|secrete|peroraison|discours
 en compagnie de|en tenant|bruissement|en meme temps que|envers|pour|dos|verso|revers|pile|derriere|et|puis|comme|plus|alors
 respectueusement|poliment|reverencieusement
 noisette
@@ -4496,6 +4497,7 @@ arrondir|cambrer|cintrer|courber|enfler|gondoler|gonfler|redresser|renfler|cloqu
 graffiteur|taggueur
 graffiteuse|taggueuse
 chenille|larve
+agreable|plaisant|convenable|savoureux|doux|aimable|gentil|sociable|sympathique|avenant|beau|adorable|admirable|bien|brillant|charmant|celeste|coruscant|delicat|divin|delicieux|eblouissant|elegant|bienveillant|accueillant|affable|amical|brave|debonnaire|comprehensif|favorable|indulgent|ouvert|prevenant|altruiste|bonasse|faible|mou|simple|bonhomme|serviable|homme|gars|type|charitable|caritatif|genereux|clement|misericordieux|magnanime|humain|compatissant|excellent|exemplaire|edifiant|parfait|propice|heureux|opportun|avantageux|benefique|chanceux|humanoide|benin|tolerant|inoffensif|anodin|pacifique|calme|tranquille|innocent|louable|meritant|meritoire|digne|juste|mangeable|comestible|consommable|utile|necessaire|profitable|indispensable|fructueux|precieux|commode|pratique|efficace|echantillon|typique|representatif|copie|archetype|modele|prototype|specimen|epreuve
 bon|faible|mou|simple|bonhomme|aimable|altruiste|brave|debonnaire|serviable|homme|gars|type
 bonhomie|mollesse|faiblesse|lymphatisme
 bonhommes|aimables|altruistes|bons|braves|debonnaires|faciles|gentils|obligeants|serviables|simples
@@ -4683,6 +4685,7 @@ acariatre|abrupt|acrimonieux|atrabilaire|bourru|desagreable|grincheux|reveche|ro
 acariatre|boudeuse|bourrue|ronchonne|grognonne|critiqueuse|geignarde|grincheuse|mecontente|rouspeteuse
 grognement|grommellement|grondement|marmonnement|ronchonnement|murmure
 grogner|grognasser|grognonner|gronder|grommeler|marmonner|maugreer|ronchonner|rouspeter|protester|semoncer|critiquer|pester
+gaillard|espece|drole|luron|individu|oiseau|quidam|bigre
 bigrement|beaucoup|drolement|sacrement|diablement|excessivement|terriblement|rudement|diantrement
 drole|gaillarde|luronne
 gargote|taverne|guinguette|hotel
@@ -4939,6 +4942,7 @@ hardiment|courageusement|resolument|vaillamment|fierement|dignement|valeureuseme
 affronter|opposer|attaquer|risquer|exposer|defier|combattre|empoigner|lutter|provoquer|narguer|mepriser|oser|offenser|violer|craner|poser|insulter|morguer|plastronner|inciter|exciter|encourager|declencher|creer|occasionner
 bonhommes|aimables|altruistes|bons|bonasses|debonnaires|faciles|gentils|obligeants|serviables|simples
 bravo
+acclamation|ovation|applaudissement|transport|delire|hourra|vivat|ban|hourra|youpi|bravissimo
 congratulations|felicitations|compliments
 audace|cran|estomac|aplomb|resolution|assurance|hardiesse|courage|intrepidite|sang-froid|energie|vaillance|valeur|cranerie|fermete|heroisme|temerite|risque|coeur|imprudence|vigueur|sacrifice|grandeur|prouesse|exploit
 voiture|ecart
@@ -5819,6 +5823,7 @@ autoritaire|despotique|imperieux|dominateur|dictatorial|tyrannique|intransigeant
 imperieuse|tyrannique|dictatoriale|dominatrice|tranchante|magistrale|irresistible|imperative|pressante|indispensable|primordiale|urgente|inevitable
 plombieres
 abolition|suppression|aneantissement|disparition|effacement|annulation|abrogation|rupture|revocation|resiliation|infirmation|invalidation|tribunal|cour|assises|chambre|justice|parquet|pretoire
+destruction|cassage|delitement|bris|debris|ruines
 bouleverse|agite|brouille|change|conteste|derange|detruit|ebranle|modifie|perturbe|ravage|reforme|renverse|disloque|deboite|desarticule|demantibule|demis|demanche|luxe|fausse|desosse|demoli|brise|fracasse|fracture|ouvert|rompu|viole|interrompu|arrete|coupe|suspendu|termine|fini|cesse|limoge|mute|destitue|disgracie|eloigne|congedie|exile|deplace
 acrobate|gymnaste|virtuose|equilibriste|funambule|voltigeur|trapeziste|cascadeur|aventureux|hasardeux|audacieux|hardi|intrepide|risque|temeraire|imprudent|dangereux|risque-tout|irreflechi
 amuse-gueule|cocktail|arborise|rafraichissement|collation|amuse-bouche|sandwich|casse-dalle|pan-bagnat
@@ -6042,6 +6047,7 @@ cerveau|encephale|bulbe|meninge
 biere|zythum
 les|des|certains|quelques
 empereur|souverain|monarque|chef|kaiser|tsar|mikado|autocrate
+empereur|conquerant|general|imperator|Oscar|prix|recompense
 hysterotomie
 absolutisme|autoritarisme|autocratie|dictature|tyrannie|hegemonie
 ils|ceux-ci|ceux-la|eux|eux-memes
@@ -6299,6 +6305,7 @@ abstinent|sobre|continent|vertueux|pur|vierge|pudique|prude|angelique|temperant|
 vertueusement|pudiquement|fidelement
 continence|abstinence|ascetisme|moderation|mortification|privation|pudeur|pudicite|purete|sagesse|sobriete|temperance|vertu|pudibonderie|pruderie|hypocrisie
 boubou|tunique|dalmatique|manteau
+felin|matou|chaton|minou|minet|mistigri|felin|felinne|chatonne|minette|minoune|feline
 marron|brun|refait|suspect|vereux
 bois|bosquet|boqueteau|sylve|futaie|frondaison|foret|bocage|fourre|buisson|chenaie|sapiniere|pinede
 brun|sombre|brunatre|bistre|marron|chocolat|tabac|terreux|bronze|hale
@@ -14724,6 +14731,7 @@ paien|idolatre|superstitieux|credule|naif
 ecoeurant|nauseabond|nauseeux|fade|repugnant|infect|degoutant|puant|rebutant|sale|malpropre|immoral|malodorant|croupissant|empeste|malsain|repoussant|immonde|pestilentiel|pernicieux|corrupteur|putride|vicie|empuanti|mephitique|miasmatique|suffocant
 infection|puanteur|remugle|pestilence
 brin|bout|grain|peu|filament|morceau|brindille
+lumiere|flamme|lanterne|fanal|flambeau|phare|flammes|flambee|flammeche|eblouissement|eclat|etincelle|embrasement|lueur|lumiere|clarte|rayon|scintillement|eclair|illumination|fulgurance|luisance|phosphorescence|falot|passion|ardeur|fanatisme|emballement|delire|exaltation|ferveur|fievre|frenesie|fureur|atre|foyer|cheminee|rechaud|fourneau|chaufferette|brasero|chauffe-plat|tison|brasier|fournaise|chauffage|haut-fourneau|douleur|brulure|aigreur|ampoule|cloque|inflammation|irradiation|irritation|insolation|ulceration|rougeur|enfer|souffrance|destruction|combustion|calcination|incendie|incineration|oxydation|deflagration|flamboiement|ignition|sinistre|signal|drapeau|balise|declencheur|declic|signalement|alarme|alerte|guerre|combat|bombardement|canonnade|mitraillage|pilonnage|rif|bagarre|tir|salve|coup|disparu|mort|decede|trepasse|defunt|tue|passe|oublie
 vassal|sujet
 warning|avertissement
 morte|decedee|defunte|disparue|passee|trepassee|tuee|inanimee
@@ -15134,6 +15142,7 @@ badiner|jouer|plaisanter|batifoler|rigoler|marivauder|taquiner|gambader|lutiner|
 badinerie
 feuillaison
 gai|badin|drole|folatre|rejouissant
+aberration|absurdite|erreur|deraison|ignorance|irreflexion|egarement|perte|aveuglement|cecite|inconscience|obstination|partialite|divagation|enormite|ecart|faute|demence|alienation|trouble|desequilibre|delire|nevrose|psychose|phobie|manie|derangement|vesanie|ardeur|frenesie|fievre|agitation|exaltation|fureur|furie|dechainement|enthousiasme|violence|debordement|dereglement|extravagance|feu|amok|passion|affolement|frayeur|terreur|effroi|inquietude|peur|panique|egarement|desarroi|vision|illusion|chimere|imagination|reve|revasserie|songe|mirage|phantasme|utopie|obsession|hallucination|apparition|berlue|cauchemar|realite|delire|divagation|extravagance|bizarrerie|excentricite|incartade|frasque|caprice|loufoquerie|devergondage|inconduite|equipee|insensibilite|marotte|dada
 feuille
 feuillet|feuille|cahier|page|planche|pli
 bractee|sepale
@@ -15268,6 +15277,7 @@ explicite|exprime|expres|precis|net|clair|positif|categorique|enonce|intitule
 dire|parler|exprimer|relater|raconter|exposer|reveler|informer|notifier|communiquer|enoncer|emettre|annoncer|expliquer|preciser|avancer|affirmer|alleguer|declarer|expliciter|prononcer
 coit|copulation|accouplement
 excepte|hormis|sauf|sinon|hors
+agissant|actif|energique|efficace|operant|influent|zele|alcoolise|raide|tasse|baleze|costaud|baraque|grand|puissant|rable|efficient|souverain|competent|enivrant|capiteux|entetant|grisant|epais|dense|gros|solide|consistant|pateux|gluant|visqueux|grossier|lourd|pesant|ramasse|dru|experimente|exerce|eprouve|chevronne|adroit|emerite|verse|rompu|habile|connaisseur|averti|capable|savant|vigoureux|robuste|herculeen|ferme|resistant|dur|athletique|trapu|trempe|doue|intelligent|invincible|abri|bastide|enceinte|gras|dodu|bouffi|corpulent|charnu|etoffe|obese|plantureux|replet|rond|ventru|huileux|poisseux|fertile|fecond|obscene|licencieux|graveleux|graisse|impetueux|ardent|fougueux|dechaine|violent|vif|volcanique|bouillant|endiable|prompt|torrentueux|vehement|effrene|infatigable|inlassable|tenace|autorise|important|preponderant|sagace|brillant|eveille|astucieux|malin|ingenieux|perspicace|intense|intensif|tendu|extreme|continu|soutenu|compact|acharne|invulnerable|imbattable|immortel|increvable|redoutable|malabar|adipeux|graisseux|bedonnant|difforme|pregnant|marquant|obsedant|profond|enfonce|creux|encaisse|bas|caverneux|grave|obscur|penetrant|abstrait|abstrus|rance|acre|moisi|vieux|gate|rustique|sale|releve|saumatre|vivant|expressif|anime|organise|vivace|respirant|tres|beaucoup|bien|tout|trop|enormement|excessivement|parfaitement|generalement|fortement|hautement|infiniment|abusivement|fortification|blockhaus|fortin|forteresse|bunker|redoute|bastion|retranchement|casemate|batterie|poste|citadelle|chateau|bastille|donjon
 epaisse|dense|grosse|solide|consistante|pateuse|gluante|visqueuse|grossiere|lourde|pesante|ramassee|drue|grasse|dodue|bouffie|corpulente|charnue|etoffee|obese|plantureuse|replete|ronde|ventrue|herculeenne|colossale|impetueuse|ardente|fougueuse|dechainee|violente|vive|volcanique|bouillante|endiablee|prompte|torrentueuse|vehemente|effrenee|vigoureuse
 fermement|vigoureusement|tres|grandement|amplement|instamment|obstinement|profondement|extremement|vivement|puissamment|solidement|beaucoup|bien|fort|tout|trop|enormement|excessivement|parfaitement|generalement|hautement|infiniment|energiquement|ardemment|prestement|promptement|rapidement|intensement|sensiblement
 pianoforte
@@ -17047,6 +17057,7 @@ factionnaire|veilleur|pisteur|suiveur|fileur|surveillant|sentinelle|garde|vedett
 protestation|clameur|cris|tolle|hurlements
 criard|piaillard|pleurard|pleurnichard
 brailleuse|crieuse|piailleuse|pleurnicharde
+ouverture|bouche|machoires|crocs|visage (familier
 linaire|cymbalaire|lin sauvage
 muflier|bec-de-lievre
 hurlement
@@ -20680,6 +20691,7 @@ liseuse
 dechiffrage|relecture|scolarite|cursus|culture|connaissance|savoir|science|lettres|instruction
 authentique|original|vrai|constitutionnel|inne|reglementaire|juridique|prescrit|permis|normal|legitime|juste|conforme|autorise|admis|licite|moral|autorisation
 constitutionnellement
+officialisation|reglementation|institutionnalisation|liberalisation|dereglementation
 authentiquer|authentifier|certifier|confirmer|reaffirmer|assurer|affermir|repeter|garantir|attester|corroborer|homologuer|valider|constitutionaliser|officialiser|institutionnaliser
 formalisme|juridisme
 loi|regularite|autorisation|legislation|droit|code|justice|acte|arret|arrete|edit|constitution|jurisprudence|ordonnance|charte|correction|proportion
@@ -21551,6 +21563,7 @@ aide|assistance|soutien
 accaparement|monopolisation|stockage|confiscation|saisie|spoliation|appropriation|emprise|empire|influence|ascendant|autorite|dependance|empietement|prise|requisition|requete|sequestre|expropriation|capture
 nombre de|beaucoup de
 assistance|aide|suivi|S.A.V.
+actuellement|presentement|apresent|cejour-ci|ici|ceans|dorenavant|desormais|gardant|immobilisant|soutenant|retenant
 assujettir|asservir|astreindre|attacher|enchainer|lier|immobiliser|imposer|forcer|contraindre|boulonner|assurer|fixer|river|visser|conserver|garder|sauvegarder|entretenir|preserver|proteger|sauver|menager|soigner|epargner|detenir|contenir|tenir|continuer|poursuivre|perpetuer|prolonger|reconduire|persister|insister|subsister|durer|laisser|abandonner|negliger|omettre|consentir|confier|remettre|donner|leguer|transmettre|lacher|perdre|soutenir|retenir|reserver|arreter|endiguer|ralentir|moderer|supporter|etayer|epauler|porter|appuyer|consolider|aider
 contenu|renferme|tenu|soutenu|entretenu|attache|conserve|retenu|fixe|garde
 apparence|aspect|air|allure|mine|exterieur|physionomie|visage|attitude|contenance|posture|comportement|style|demarche|tournure|confirmation|assurance|affirmation|renouvellement|approbation|preuve|authentification|verification|garantie|validation|enterinement|ratification|continuation|conservation|conserve|entretien|garde|preservation|protection|sauvegarde|port|bassin|transport|prestance|solennite|tour|forme|maniere|facon|taille|touche|caractere
@@ -21561,6 +21574,7 @@ neanmoins|cependant|toutefois|pourtant|seulement|uniquement|exclusivement|simple
 baraque|cabane|masure|hutte|batiment|edifice|batisse|construction|immeuble|monument|building|gratte-ciel|chez-soi|foyer|toit|cottage|chartreuse|villa|etablissement|entreprise|usine|firme|institution|fabrique|manufacture|industrie|magasin|comptoir|banque|ecole|societe|famille|menage|sang|dynastie|lignage|descendance|progeniture|genealogie|souche|parentele|habitation|logis|demeure|logement|habitat|domicile|residence|abri|gite|appartement|retraite|interieur|interne|contenu|civil|prive|intime|secret|domestique|dedans|habitacle|home|nid|mas|bastide|ferme|penates|racine|tronc|tige|lignee|branche|pavillon
 famille
 cabane|masure|chaumiere|cabanon|cahute|hutte|case|mas|chalet|loge|abri|fermette
+seigneur|roi|prince|monarque|majeste|magister|regent|sieur|sire|suzerain|hobereau|souverain|chatelain|paladin|aristocrate|franc-macon|juge|createur|dieu|divinite|deite|demiurge|verbe|idole|logos|eternel|pere|maestro|virtuose|repetiteur|musicien|mentor|enseignant|educateur|initiateur|expert|savant|precepteur|formateur|professeur|pion|surveillant|eveilleur|instructeur|moniteur|pedagogue|instituteur|enseignant|entraineur|gourou|compagnon|frere|hote|amphitryon|atout-maitre|as|chef|chef|responsable|dirigeant|patron|commandant|directeur|superieur|leader|meneur|proprietaire|employeur|dictateur|tyran
 compas|boussole
 racketteur|ranconneur
 cuisinier|chef|traiteur|rotisseur|saucier|coq|marmiton|cordon bleu|gate-sauce|cuistot
@@ -21588,6 +21602,7 @@ lemur|lemurien
 kakemono|estampe
 blessure|plaie|lesion|coup|fracture|cassure|meurtrissure|contusion|ecorchure|egratignure|griffure|entaille|entorse|bobo|eraflure|creve|refroidissement|grippe|mort|eclate|perce|meurt|crime|forfait|delit|infraction|faute|assassinat|peche|monstruosite|infamie|atrocite|homicide|meurtre|difficulte|gene|embarras|peine|complication|obstacle|corvee|tourment|tracas|crise|probleme|question|impasse|empechement|larme|eau|goutte|gouttelette|perle|larmoiement|sanglot|pleurnichement|pleurnicherie|chagrin|souffrance|mauvais|douleur|dommage|perte|maladie|affection|atteinte|indisposition|malaise|traumatisme|trouble|derangement|attaque|epreuve|infirmite|rechute|prejudice|dol|tort|dam|detriment|desavantage|injustice|amertume|affliction|desolation|supplice|vice|defaut
 fort|costaud
+detraque|fou|desequilibre|obsede|derange|maboule|cingle|timbre|souffrant|indispose|abattu|fievreux|valetudinaire|faible|souffreteux|fatigue|dolent|maladif|incommode|afflige|defait|malingre|faible|chetif|patraque|frele|patient|client
 psychopathe|fou|dement|aliene|nevrose
 affection|inclination|mal|mauvais|douleur|crime|dommage|perte|atteinte|indisposition|malaise|traumatisme|trouble|derangement|crise|attaque|epreuve|infirmite|rechute|vertige|nausee|vapeur|nevrose|psychose|alienation|desequilibre|dereglement|nielle|nigelle
 cyanose|anoxie
@@ -22312,6 +22327,8 @@ commercialisation|vente|exploitation|distribution|marketing|marcheage
 affreux|effrayant|effroyable|terrible|monstrueux|abominable|epouvantable|horrible|cruel|reitre|aventurier|condottiere|flibustier|intrigant|aventureux|soldat|militaire|soudard
 misericorde|remerciement|congediement
 hydrargyre|vif-argent
+excrement|bouse|crottin|crotte|caca|marre|assez|casuffit|raslebol|bordel|foutoir|galere|merdier
+sale|crade|degueulasse|insolent|morveux|arrogant|blanc-bec|pretentieux|fanfaron
 accouchee|parturiente|femme|dame|epouse|soeur|demoiselle|fille|matrone|menagere|heroine|sirene|deesse|nymphe|egerie|genitrice|lie|sediment|depot|residu|ecume|maman|maratre|belle-mere|cause|procreatrice|religieuse|bonne soeur|nonne|patisserie
 grand-maman|aieule|grand-mere|mamie|meme|memere
 saucisse|andouillette|chipolata
@@ -22631,6 +22648,7 @@ mixtion|melange|incorporation|pot-pourri|patchwork|magma|amalgame
 pots-pourris|melanges|patchworks|magmas|amalgames
 memorisation
 cyclomoteur|moto|motocyclette|velomoteur
+agile|vif|leste|prompt|rapide|preste|alerte|souple|delie|adroit|ambulant|nomade|errant|changeant|baladeur|forain|amovible|extractible|detachable|anime|vivant|agite|excite|variable|incertain|capricieux|transitoire|ephemere|versatile|volage|lunatique|cyclothymique|instable|flottant|indecis|aventurier|vagabond|perdu|mouvant|expressif|bavard|energique|demonstratif|colore|eloquent|vigoureux|manifeste|significatif|parlant|touchant|expressive|animee|vive|bavarde|demonstrative|coloree|eloquente|vigoureuse|significative|fluctuant|inconstant|indetermine|fuyant|insaisissable|evasif|evanescent|fugitif|modulable|flexible|papillotant|scintillant|clignotant|portatif|portable|transportable|commode|remuant|nerveux|sautillant|trepignant|turbulent|actif|dechaine|fretillant|volante|aerienne|itinerante|intention|premeditation|projet|propos|dessein|idee|pensee|calcul|motif|resolution|decision|desir|motivation|raison|determination
 ameublement|amenagement|materiel|concret|physique|palpable|tangible|materiau|outillage|equipement|machine|matos|meuble|labourable|souple|meubles
 motivant|stimulant|incitant|allechant
 appel|cri|exhortation|excitation|proclamation|invite|signal|convocation|recours|incorporation|rappel|arriere|recrutement|conscription
@@ -22641,8 +22659,10 @@ velomoteur|cyclomoteur
 chaussure|soulier|botte|brodequin|escarpin|espadrille|sabot|sandale|bottillon
 clause|condition|disposition|convention|stipulation|mode|formule|type
 circonstance|cas|conditions|donnees|opportunite|particularite|conjoncture|hasard|situation|moment|occasion|eventualite|occurrence
+actualite|evenements|nouveaute|vogue|couture|facon|habitude|coutume|tradition|usage|regle|us|moeurs|maniere|facon|style|conduite|art|methode|logique|procede|formule|theorie|systeme|recette|modalite|condition|type|guide|pratique
 faconnage
 acyclique|aperiodique|hors cycle|aleatoire|petri
+gabarit|prototype|maquette|type|essence|original|principe|etalon|exemple|parangon|corrige|solution|resultat|chatie|ameliore|adouci|critere|epreuve|criterium|test|preuve|reference|signe|jauge|fondement|echantillon|specimen|apercu|abrege|resume|exemplaire|bon|edifiant|parfait|typique|representatif|copie|regle|ideal|patron|precedent|imitation|entrainement|contagion|canon|tonnage|dimension|volume|forme|reve|imaginaire|pur|supreme|immateriel|metre-etalon|metaphysique|platonique|utopie|absolu|perfection|ideale|theorique|revee|pure|parfaite|immaterielle|incorporelle|maquette|ebauche|reduction|projet|canevas|reproduction|moule|matrice|moulure|pattern|perle|grain|boule|goutte|betise|bevue|bijou|joyau|lapsus|larme|marguerite|merveille|perlouse|phenix|tresor|genie|prodige|as|aigle|plastique|malleable|souple|flexible|mou|sculpture|dynamite|representant|magot|filon|parangon|exemple|archetype|ideal|mannequin|cover-girl
 faconner|faire|fabriquer|confectionner|batir|former|elaborer|oeuvrer|preparer|forger|amenager|arranger|assembler|composer|conformer|constituer|mouler|petrir|sculpter|buriner|ciseler|figurer|graver|tailler
 modelisme|maquettisme
 sculpteur|statuaire|ornemaniste|imagier
@@ -22900,6 +22920,7 @@ pou
 frein|obstacle|rene|bride|licol|guide|laniere|courroie
 pinnipede|phoque|otarie
 meurtrissure|blessure|plaie|piqure
+fin|extremite|limite|terme|terminaison|terminus|queue|aboutissement|issue|epilogue|conclusion|denouement|trepas|agonie|glas|deces|meurtre|acme|aneantissement|disparition|extinction|consommation|suicide|assassinat|trepasse|cadavre|esprit|spectre|ame|decede|victime|depouille|defunt|trepasse|tue|disparu|feu|passe|martyr|souffre-douleur|blesse|maladie|creve|grippe|mal|inactif|creve|epuise|inanime|inerte|immobile|stagnant|dormant|marecageux|stationnaire|foutu|rape|termine|deglingue
 entaille
 entaille|coche|coupe|creuse|ebreche|ecorne|incise|blesse
 entailler|cocher|couper|creuser|ebrecher|ecorner|inciser|haver
@@ -23354,6 +23375,7 @@ brugnon
 issue|native|originaire|ouverture|sortie|porte|passage|debouche|exutoire|solution|echappatoire|expedient|aboutissement|resultat|conclusion|venue|arrivee|survenue|avancee
 batave|hollandais
 hollandaise|batave
+vaisseau|navire|bateau|caraque|nacelle|eglise
 funeste|fatal|mortel|meurtrier|sinistre|catastrophique|navrant|tragique|malheureux|affligeant|calamiteux|nocif|nuisible|irreparable|irremediable|definitif|mauvais|defectueux|imparfait|execrable|horrible|faux|inexacte|lamentable|pauvre|mechant|infect|cruel|dommageable|prejudiciable|malefique|incommodant|malsain|dangereux|destructeur|pernicieux|pejoratif|depreciatif|defavorable
 defiant|sceptique
 rien|zero|cliche|contretype|non|nenni|pas du tout|photographie|epreuve|positif|instantane|image|tirage|photomaton|diapositive|portrait|phototype
@@ -24488,6 +24510,7 @@ tissage|tressage|tramage|nattage
 arachneen|fin|dentele|transparent|aerien|vaporeux
 coudre|batir|faufiler|monter|raccommoder|rapiecer|ravauder|repriser|surfiler|surjeter|creneler|denteler|decouper|border|entourer|franger
 bordure|rebord|repli|pli
+urside|ourson|misanthrope|plantigrade|meliphage|hyperonyme|grizzli|ourspolaire|oursblanc|oursbrun|oursalunette|oursnoir|jouet|oursenpeluche|nounours|peluche|toutou
 dehors
 depasse|hors circuit
 becasse|barge|courlis|echassier|huitrier
@@ -25314,7 +25337,9 @@ kimono|deshabille|neglige|saut-de-lit|sortie de bain
 tranquille|calme|serein|paisible
 tranquillement
 badigeonner|enduire|brosser|frotter|nettoyer|epousseter|etriller|panser|peigner|decrotter|depoussierer|bouchonner|decrire|depeindre|colorer|colorier|teinter|teindre|rehausser|enluminer|laquer|peinturlurer|representer|imiter|remplacer|ripoliner|vernir|cirer|glacer|lisser|lustrer
+amende|contravention|proces-verbal|reparation|sanction|astreinte|reforme|chatiment|punition|repression|expiation|correction|penitence|penalite|condamnation|damnation|sentence|jugement|arret|excommunication|interdit|reprobation|proces|accusation|desaveu|corvee|rachat|compensation|vengeance|gage|pensum|confirmation|ratification|agrement|tristesse|chagrin|affliction|morosite|morne|melancolie|contrit|abattement|amertume|douleur|souffrance|tristesse|melancolie|cafard|spleen|humeur sombre|creve-coeur|deception|desappointement|deplaisir|souffrance|malaise|gene|embarras|supplice|tourment|torture|martyre|gehenne|calvaire|malheur|calamite|catastrophe|desastre|detresse|drame|desolation|fleau|mal|crise|aneantissement|lassitude|faiblesse|effort|travail|harassement|surmenage|fatigue|concentration|attention|tension|poussee|lutte|besogne|fourbure|essoufflement|ahanement|obstacle|tracas|embarras|probleme|difficulte|question|complication|epreuve|infortune|fatalite|revers|malchance|adversite|impasse|empechement
 sue|transpire|exsude|suinte
+travailler|s'essouffler|sefatiguer|souffler|ahaner|oeuvrer|stagner|suer|transpirer|suinter|exsuder|exhaler|s'attrister|souffrir|subir|endurer|eprouver|desesperer|s'attrister|sechagriner|s'affliger|patir|s'assombrir|serembrunir|seconsterner|etrecontrarie|etredecu|etremecontente
 brosse|colorie|croque|colore
 aquarelliste|artiste|acteur|createur|interprete|comedien|dessinateur|sculpteur|vedette|virtuose|fantaisiste|coloriste|enlumineur|pastelliste|miniaturiste|paysagiste|portraitiste|animalier|caricaturiste
 aquarelle|lavis|gouache|badigeon|enduit|appret|couleur|teinte|nuance|ton|tonalite|coloration|coloris|croute|bout|couche|crepi|depot|galipot|gunite|incrustation|mastic|protection|revetement|vernis|fresque|dessin|tableau|description|portrait|effigie|reproduction|image|figure|cliche|caricature|photo|buste|representation|liste
@@ -25498,6 +25523,7 @@ glareole|hirondelle des marais
 ecarte|detourne|eloigne|isole|retire|errant|ambulant|aventurier|vagabond|nomade|mobile|mouvant|fichu|chale|gache|condamne|fourvoye|egare|deroute|desoriente|incurable|inguerissable|infrequente|abandonne|delaisse|depeuple|desert|desole|inhabite|sauvage|irrecouvrable|irrecuperable|dechu|exclu|degenere|diminue|avili|irremediable|irreparable|fatal|manque|rate|avorte|failli|offense|paume|inadapte|abime|corrompu|depossede|deshonore|recule
 durable
 eterniser|durer|continuer
+createur|auteur|concepteur|inventeur|fondateur|constructeur|batisseur|geniteur|inventif|innovant|novateur|dieu|divinite|deite|demiurge|verbe|idole|logos|eternel|seigneur|dieu|juge|maitre|reproducteur|papa|procreateur|paternel|religieux|pretre|ecclesiastique|pontife|ministre|aumonier|abbe|vicaire|cure|chapelain|coadjuteur|reverend|pasteur|croyant|devot|mystique|pratiquant|spirituel|frere|moine|prieur|vieux (familier
 croquemitaine|croque-mitaine|ogre|epouvantail|terreur|fouettard
 errance|aventure|egarement|instabilite|flanerie|nomadisme|promenade|randonnee|vagabondage|voyage|deplacement|tournee|excursion|balade|circuit|croisiere|periple|expedition|traversee|navigation|pelerinage
 invalidation|abrogation|prescription|obsolescence|depreciation|desuetude|nullite|arrete|regle|ordonnance|instruction|recommandation|precepte
@@ -27042,6 +27068,7 @@ accessibilite|possibilite|viabilite
 accessoire|outil|instrument|complement|ustensile|objet|executable|realisable|facile|aise|commode|possible|enfantin|elementaire|simple|abordable|accessible|carrossable|envisageable|utilisable|disponible|employable
 chirurgien|medecin|clinicien|therapeute|omnipraticien|generaliste|specialiste|accoucheur|allopathe|anesthesiste|cancerologue|cardiologue|dentiste|docteur
 applicateur|qui applique|fidele|sur|assidu|constant|sincere|devoue|loyal|adepte|croyant|ouaille|partisan|adoptant|religieux|devot|mystique|sprituel|pere|frere|pretre|abbe|moine|prieur
+etude|entrainement|apprentissage|exercice|epreuve|essai|experience|experimentation|observation|empirisme|pragmatisme|routine|coutume|habitudes|usages|comportement|commode|utile|astucieux|aise|facile d'utilisation|confortable|necessaire|profitable|indispensable|bon|avantageux|fructueux|precieux|utilitaire|positif|procede|methode|moyen|formule|recette|secret|ficelle|artifice|procedure|conduite|astuce|pragmatique|realiste|efficace|concret|application|demonstration|recherche|verification|controle|test|agissement|menee|manoeuvre|manigance|combine|client|acheteur|habitue|consommateur|fidele|chaland|prospect|aise|armoire|coffre|chiffonnier|bonheur-du-jour|fashion|chic|smart|maniere|facon|frequentation|contact|assiduite|familiarite|voisinage|entourage|connaissance|accointances|relation|rapport|habitable|vivable|maniable|manoeuvrable|malleable|mode|couture|vogue|style|guide|adopte
 exerce|adroit|aguerri|entraine|experimente|expert|forme|utilise|employe|exploite|servant
 concretement|materiellement|quasiment|pour ainsi dire|prosaiquement|communement|presque|virtuellement|potentiellement|probablement
 exercer|former|frequenter|commercer|frayer|voisiner|hanter|cotoyer|approcher|operer|faire|agir|executer|realiser|adopter
@@ -28165,6 +28192,7 @@ acquit|recu|quitus|recepisse|decharge|reglement|liberation|emargement|signature|
 exempt|affranchi|decharge|immunise|dispense|exonere|degage|libere|libre|indemne|debarrasse
 abandonner|abdiquer|cesser|delaisser|renoncer|abjurer|apostasier|renier|retracter|desavouer|absenter|manquer|disparaitre|eloigner|partir|fuir|demenager|decamper|perir|mourir|montrer|manifester|expirer|perdre|finir|filer|supprimer|effacer|emigrer|detaler|sortir|deguerpir|appareiller|demarrer|emerger|affleurer|poindre|saillir|naitre|venir|provenir|emaner
 acquit|recu|quittance|recepisse|decharge|reglement|liberation|facture
+hein|comment|pardon|que|que|lequel|laquelle|lesquels|lesquelles|auquel|a laquelle|auxquels|auxquelles|duquel|de laquelle|desquels|desquelles|quel|quelle|quels
 malgre|cependant|involontairement|bien que|encore que
 lazzi|moquerie|plaisanterie|raillerie|ironie|derision|pointe|pique|apostrophe|huee
 majorite|nombre
@@ -30478,6 +30506,7 @@ rougeaud|rouge
 rouge-gorge|rouge-queue
 ocreuse|ocree
 ocre|ocreux|oxyde|rouille
+pierre|corindon|gemme|rouge|ecarlate
 breviaire|office|bref|psautier|feuilleton|serie|dramatique|histoire|article|critique|roman|film|chronique
 fourmiliere|foule|nasse|piege|filet|casier
 abeiller|abeillier|plisser|froncer|plier|froisser|chiffonner|doubler
@@ -33225,6 +33254,7 @@ biaiser|obliquer|fuir|louvoyer|gauchir|discutailler|argumenter|atermoyer|raisonn
 aboutissement|fin|issue|bout|terminaison|resultat|conclusion|reussite|borne|limite|bornage|frontiere|repere|solution|denouement|epilogue|peroraison|moralite|lecon|enseignement|confins|extremite|terminus|lisiere|echeance|expiration|expression|locution|mot|tour|tournure|formule|euphemisme|idiotisme|trait|pointe|figure|metaphore|symbole|fermage|affermage|location|louage|loyer|metayage|redevance|queue|mort|delicat|joli|plaisant|ravissant|mince|elance|emince|filiforme|etroit|svelte|recompense|lettre|parole|propos|dispute|querelle|vocabulaire|glossaire|abecedaire|lexique|dictionnaire|terminologie|jargon
 scalp|selecter
 aboutissement|fin|issue|bout|terme|resultat|conclusion|reussite|achevement|finition|couronnement|cloture|clausule|morale|completion|solution|denouement|epilogue|peroraison|moralite|lecon|enseignement|limite|terminus|queue|mort|delicat|joli|plaisant|ravissant|mince|elance|emince|filiforme|etroit|svelte|reglement|suffixe|ajout
+final|extreme|ultime|excessif|supreme|comble|fermant|finissant|dernier|aerogare|aeroport|ordinateur|station|decodeur
 accompli|fini|acheve|realise|revolu|passe|consomme|parfait|ideal|effectue|execute|complet|aguerri|experimente|entier|integral|total|rempli|exhaustif|in extenso|radical|borne|defini|limite|interrompu|rompu|arrete|coupe|brise|casse|suspendu|cesse
 aboutir|finir|conclure|parvenir|reussir|accomplir|realiser|executer|effectuer|achever|operer|proceder|parachever|parfaire|completer|consommer|couronner|clore|borner|limiter|marquer|delimiter|localiser|barrer|border|arreter|separer|circonscrire|restreindre|fixer|etablir|fermer|entourer
 taxinomie|classification|vocabulaire|glossaire|abecedaire|lexique|dictionnaire|mot|terme|jargon
@@ -34263,6 +34293,7 @@ insidieuse|sournoise|captieuse|fallacieuse|rusee|mystificatrice|imposteuse|trich
 illusoirement|insidieusement|sournoisement|faussement|perfidement
 boite|recipient|contenant|boitier|coffre|cassette|caisse|emballage|carton|ecrin|etui|trousse|necessaire|souche|racine|tige|descendance|sang|famille|lignee|lignage|maison|dynastie|branche|torse|buste|thorax|bois|troncon|tirelire|partie|tranche|portion
 abregement|diminution|reduction|siglaison|apherese|apocope|syncope|mot-valise
+gueule (familier|visage|figure
 bout|morceau|part|section|segment|element|division|fraction|fragment|quartier|portion|bouchee|parcelle|tranche|rondelle|darne|tartine|coupe|cote|partie|decide|tronc|bois|torse|tirelire
 decoupage
 decoupage

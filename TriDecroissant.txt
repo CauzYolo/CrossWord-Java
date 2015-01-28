@@ -4050,6 +4050,7 @@ languissante
 lapis-lazuli
 laryngologue
 lateralement
+legalisation
 legionellose
 legitimation
 legitimement
@@ -10608,6 +10609,7 @@ maieutique
 maigrement
 maigrichon
 main-forte
+maintenant
 majestueux
 majoration
 maladrerie
@@ -21653,6 +21655,7 @@ poussoir
 poutrage
 pouvoirs
 pratique
+pratique
 prebende
 precaire
 preceder
@@ -22610,6 +22613,7 @@ tendrete
 tenebres
 tenesmes
 tequilas
+terminal
 terminer
 terminus
 terrasse
@@ -26183,6 +26187,7 @@ mention
 menures
 meprise
 mercure
+merdeux
 merguez
 meriter
 mesange
@@ -27851,6 +27856,7 @@ troikas
 trolley
 tromper
 trompes
+tronche
 troncon
 tronque
 trophee
@@ -28640,6 +28646,7 @@ bouffi
 bouger
 bougie
 bougon
+bougre
 bouler
 boulet
 boulle
@@ -29948,6 +29955,7 @@ gueret
 guerir
 guerre
 guetre
+gueule
 gueuse
 guiche
 guider
@@ -30366,7 +30374,9 @@ maille
 maints
 mairie
 maison
+maitre
 majeur
+malade
 malgre
 malice
 mal vu
@@ -30495,6 +30505,8 @@ mitron
 mixage
 mixeur
 mixtes
+mobile
+modele
 modele
 modere
 module
@@ -30801,6 +30813,7 @@ pecule
 pedale
 pedant
 peigne
+peiner
 pelade
 pelage
 pellet
@@ -32294,6 +32307,7 @@ boxer
 boyau
 brave
 brave
+bravo
 break
 breve
 bribe
@@ -32373,6 +32387,7 @@ carvi
 casee
 caser
 casse
+casse
 caste
 catir
 cauri
@@ -32387,6 +32402,7 @@ celui
 cerne
 cerne
 cesar
+Cesar
 cesse
 cette
 chair
@@ -32815,6 +32831,7 @@ foehn
 foene
 foene
 foire
+folie
 folie
 folio
 folle
@@ -33339,6 +33356,7 @@ menee
 mener
 menue
 merci
+merde
 merle
 merlu
 messe
@@ -33587,6 +33605,7 @@ peche
 peche
 pedum
 pegre
+peine
 peine
 peint
 pekan
@@ -33885,6 +33904,7 @@ route
 royal
 ruade
 ruban
+rubis
 ruche
 rugir
 ruine
@@ -34493,6 +34513,7 @@ cerf
 ceux
 chai
 char
+chat
 chef
 cher
 chez
@@ -34675,6 +34696,7 @@ folk
 fond
 fore
 fors
+fort
 four
 frac
 frai
@@ -34884,11 +34906,13 @@ mine
 miro
 mise
 miss
+mode
 mois
 mole
 mome
 mont
 mors
+mort
 moto
 moue
 mout
@@ -34952,6 +34976,7 @@ ossu
 oter
 ouie
 ouir
+ours
 oust
 ouzo
 ovin
@@ -34985,6 +35010,7 @@ pele
 pene
 peon
 pepe
+pere
 pers
 peuh
 peur
@@ -35040,6 +35066,7 @@ pure
 purs
 quai
 quel
+quoi
 race
 race
 rade
@@ -35290,6 +35317,7 @@ ans
 ara
 arc
 art
+Ave
 axe
 azt
 bac
@@ -35314,6 +35342,7 @@ ble
 boa
 bof
 bol
+bon
 bot
 box
 bru
@@ -35374,6 +35403,7 @@ fat
 fax
 fee
 fer
+feu
 fez
 fic
 fil
@@ -35450,6 +35480,7 @@ mur
 mur
 nap
 nee
+nef
 nem
 net
 nez

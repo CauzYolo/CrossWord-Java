@@ -22,7 +22,7 @@ public class GestionFichier {
 
     public static int getNbMotsDictionnaire(){
     	Matcher matcher; 
-    	Pattern pattern = Pattern.compile("(.+\\|1)");
+    	Pattern pattern = Pattern.compile("(.+\\|\\d)");
 		int nbMots = 0;
 		long startTime = System.currentTimeMillis();
 		try {
@@ -83,11 +83,12 @@ public class GestionFichier {
 		int nbMots = 0;  
 
     	try {
+    		System.out.println("Début de la mise à jour du dictionnaire");
 		    fis = new FileInputStream("thes_fr.dat");
 		    fichier = new BufferedReader(new InputStreamReader(fis, "UTF-8"));
 			writerWorld = new BufferedWriter( new FileWriter("word.txt"));
 			writerAdj = new BufferedWriter( new FileWriter("adj.txt"));
-			pattern = Pattern.compile("(.+\\|1)");
+			pattern = Pattern.compile("(.+\\|\\d)");
 			byte[] buf = new byte[1];
 			long startTime = System.currentTimeMillis();
             for (String line; (line = fichier.readLine()) != null; ) {
@@ -100,13 +101,37 @@ public class GestionFichier {
 							writerWorld.write(split[0] + "\n");
 							nbMots++;
 						}
-						String nextLine = fichier.readLine();
-						String[] adj = nextLine.split("\\)\\|");
-						adj[1] = translate(adj[1]);
-						//System.out.println(adj[1]);
-						if(split[0].length() <= 15)
-							writerAdj.write(adj[1] + "\n");
-						line = "";
+						if(Integer.parseInt(split[1]) > 1){
+							String ligneSyn = "";
+							System.out.println(split[1]);
+							int nbCallback = Integer.parseInt(split[1]);
+							for(int callback = 0; callback < nbCallback; callback++){
+								String nextLine = fichier.readLine();
+								String[] adj = nextLine.split("\\)\\|");
+								adj[1] = translate(adj[1]);
+								if(split[0].length() <= 15){
+									if(callback == nbCallback - 1){
+										ligneSyn += adj[1];
+									}
+									else{
+										ligneSyn += adj[1] + "|";
+									}
+									
+								}
+							}
+							if(split[0].length() <= 15){
+								ligneSyn += "\n";
+								writerAdj.write(ligneSyn);
+							}
+						}
+						else if (Integer.parseInt(split[1]) == 1){
+							String nextLine = fichier.readLine();
+							String[] adj = nextLine.split("\\)\\|");
+							adj[1] = translate(adj[1]);
+							if(split[0].length() <= 15){
+								writerAdj.write(adj[1] + "\n");
+							}
+						}
 					}
 			}			
 			writerWorld.write("Nombres de mot : # " + nbMots);
@@ -162,7 +187,7 @@ public class GestionFichier {
 		}  		
     }
 
-    private static ArrayList<String>  TriBulleCroissant(ArrayList<String> list){
+    public static ArrayList<String>  TriBulleCroissant(ArrayList<String> list){
     	System.out.println("Début du tri croissant");
 	    int n = list.size() - 1 ;
 	   	for (int i = n; i >= 1; i--){
@@ -184,7 +209,7 @@ public class GestionFichier {
 		return list;
 	}
 
-	private static ArrayList<String>  TriBulleDecroissant(ArrayList<String> list){
+	public static ArrayList<String>  TriBulleDecroissant(ArrayList<String> list){
 	    int n = list.size() - 1 ;
 	    System.out.println("Début du tri décroissant");
 	   	for (int i = n; i >= 1; i--){
